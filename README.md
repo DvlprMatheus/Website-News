@@ -10,13 +10,16 @@ O site de escolha foi ❝The Washington Post❞ em uma das suas primeiras versõ
 ❧ Perguntas
 
 ➤ Qual era o o propósito inicial do site? 
+
 ❝O propósito inical do site era contribuir com o povo americano para que eles ficassem informados sobre o dia a dia,
 e diferente de outros sites de notícias, também tentava ser a homepage dos navegadores fazendo auto-divulgação.❞
 
 ➤ O site propósito mudou ao longo do tempo? 
+
 ❝Não, o propósito ainda continua o mesmo, tenta ser um site de notícias diário com um público mais adulto.❞
 
 ➤ Quais os problemas que esse site tinha quando "novo" e quais têm agora?
+
 ❝Os problemas iniciais eram as grandes quantidades de informações que existiam na tela do usuário, muito texto,
 o que seria poluído para nós nos dias de hoje. E nas versões de atuais, o site conta com problemas de UI/UX, a
 forma como é apresentado é um pouco mais robusta do que outros.❞
