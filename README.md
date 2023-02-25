@@ -2,6 +2,7 @@
 ❧ O que é?
 
 O repositório foi criado com o propósito de realizar uma atividade do curso de Web-Java do PROA.
+
 A temática é visualizar na Wayback Machine, um site de notícias de outro país, que tivesse ao menos 20 anos, e tentar compreender sua estrutura.
 Ao entender como o site era programado, a proposta era fazer mudanças para tornar mais acessível e atraente para o público jovem utilizando o Figma.
 O site de escolha foi ❝The Washington Post❞ em uma das suas primeiras versões de 1996.
@@ -28,4 +29,5 @@ de sites.
 ❧ Referências
 
 ✤ Foram utilizadas notícias, imagens, logo do próprio site antigo para a sua nova versão prototipada.
+
 ✤ A manchete principal foi escrita por eu mesmo, e a imagem foi do retirada do próprio site da Nintendo.
